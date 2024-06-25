@@ -9,6 +9,23 @@
     }
 }
 
+@keyframes press{
+    from{  
+        transform:  translateY(-3px);
+    }
+
+    to{
+        transform:  translateY(0px)
+    }
+}
+
+section.home {
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
 header.design1{
     display: flex;
     width: 80vw;
@@ -18,9 +35,8 @@ header.design1{
     background-color: red;
     color: white;
     font-family:Arial Black;
-    position: absolute; 
+    position: fixed; 
     top: 0;
-    left: 0;
 }   
 
 & .design1.img{
@@ -65,8 +81,7 @@ header.design1{
    padding-right: 30px;
 }
 
-header.design1 button {
-
+header.design1 button{
     margin-left: 15px;
     background-color: rgba(0,0,0,0);
     font-family: Arial Black;
@@ -105,6 +120,7 @@ footer.design2{
     color: white;
     font-family:Arial Black;
     position: absolute; 
+    background-attachment: ;
     bottom: 0;
     left: 0;
 }   
@@ -135,3 +151,110 @@ footer.design2{
     height : 60px;
     align-items: center;
     }
+
+    footer.design7{
+        display: flex;
+        width: 80vw;
+        height: 3vw;
+        justify-content: space-between;
+        padding: .7rem 10vw;
+        align-items: center;
+        background-color: red;
+        color: white;
+        font-family:Arial Black;
+        cursor: default;
+        position: fixed;
+        bottom: 0; 
+    }   
+    
+        .design7 img{
+        height: 55px;
+        }
+    
+        .design7 nav{
+        padding-right: 30px;
+    
+        }
+    
+        .design7 button {
+        margin-left: 15px;
+        margin-right: 50px;
+        background-color: rgba(0,0,0,0);
+        font-family: Arial Black;
+        color: white;
+        font-size: 20px;
+        height: 60px;
+        border : none;
+        border-bottom: 5px rgba(0,0,0,0) solid;
+        transition: .1s;
+        
+        }
+    
+        .design7 button:hover{
+        transform: translateY(-3px);
+        background-color: #ffc400;
+        border-bottom: 5px #ff7b00 solid;
+        }
+    
+        .design7 button:active{
+        transform: translateY(0px);
+        border-left: 5px red solid;
+        border-right: 5px red solid;
+        border-bottom: 5px red solid;
+    
+        }
+    
+        .design7 p{
+        padding-left: 40px;
+        }
+    
+        #box17{
+        height : 60px;
+        align-items: center;
+        }
+    
+        #box18{
+        align-items: center;
+        }
+    
+#box45{
+            margin-top: 100px;
+            display: flex;
+            justify-content: space-evenly;
+            align-items: center;
+            border-radius: 10px;
+            background-color: white;
+            max-width: max-content;
+            box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+        }
+
+        #box4{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        #box4 img {
+            width : 350px;
+            border-top-left-radius: 5px;
+            border-bottom-left-radius: 5px;
+        }
+        
+        #box5{
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            flex-direction : column;
+            width: 600px;
+        }
+        
+        
+        #box5 h1{
+            font-size: 30px;
+            margin: 5px;
+            color: black;
+            font-family: Arial Black;
+            padding: 40px;
+        }
+        
+

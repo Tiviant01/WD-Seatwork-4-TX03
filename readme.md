@@ -112,3 +112,5 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 |blurry background of a restaurant, great for text backgrounds, video backgrounds and illustrations|Background Image|https://ph.pinterest.com/pin/625367098301214634/|
+|Copycat McDonald's Big Mac|Image|https://ph.pinterest.com/pin/554927985353292441/|
+|#31|Box Shadow|https://getcssscan.com/css-box-shadow-examples?fbclid=IwZXh0bgNhZW0CMTEAAR3AK8uz-1Km8yyg47w-c_NN_gEQpcmrD3IGSBId-sST-8GlUoi0UZwSRx4_aem_yOsX94aOnkZAdL55eV_yfw
