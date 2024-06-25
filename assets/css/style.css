@@ -1,0 +1,78 @@
+body {
+    background-image: url(../img/blurry\ background\ of\ a\ restaurant\,\ great\ for\ text\ backgrounds\,\ video\ backgrounds\ and\ illustrations.jfif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+section.home {
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#box1{
+    margin-top: 10vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#box1 h1{
+    font-size: 55px;
+    margin-bottom: 20px;;
+}
+
+#box1 h2{
+    font-size: 25px;
+    margin-bottom: 40px;
+}
+
+
+ .home nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+ }
+
+ .home nav a{
+    text-decoration: none;
+    color:inherit;
+ }
+
+ .home button{
+    padding: 20px;
+    margin: 25px;
+    color: white;
+    border: 5px white solid;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0);
+    backdrop-filter: blur(4px);
+    transition: .1s;
+    font-family: inherit;
+    font-weight: bold;
+    font-size: 50px;
+ }
+
+ .home button:hover{
+    transform: scale(1.2);
+    backdrop-filter: blur(0px);
+    border: 3px white solid;
+ }
+
+ .home button:active{
+    transform: scale(1.0);
+    background-color: white;
+    border: 5px white solid;
+ }
