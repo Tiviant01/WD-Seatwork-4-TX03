@@ -120,7 +120,6 @@ footer.design2{
     color: white;
     font-family:Arial Black;
     position: absolute; 
-    background-attachment: ;
     bottom: 0;
     left: 0;
 }   
@@ -235,11 +234,12 @@ footer.design2{
         }
         
         #box4 img {
-            width : 350px;
+            width : 300px;
             border-top-left-radius: 5px;
             border-bottom-left-radius: 5px;
         }
-        
+
+
         #box5{
             display: flex;
             justify-content: center;
@@ -247,8 +247,7 @@ footer.design2{
             flex-direction : column;
             width: 600px;
         }
-        
-        
+
         #box5 h1{
             font-size: 30px;
             margin: 5px;
@@ -257,4 +256,85 @@ footer.design2{
             padding: 40px;
         }
         
+#box67{
+            margin-top: 100px;
+            display: flex;
+            justify-content: space-evenly;
+            align-items: center;
+            border-radius: 10px;
+            background-color: white;
+            max-width: max-content;
+            box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+        }
+        
+        #box6{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        #box6 img {
+            width : 350px;
+            border-top-right-radius: 5px;
+            border-bottom-right-radius: 5px;
+        }
 
+        #box7{
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            flex-direction : column;
+            width: 600px;
+            padding: 10px;
+        }
+        
+        
+        #box7 h1{
+            font-size: 30px;
+            color: black;
+            font-family: Arial Black;
+            padding: 40px;
+        }
+        
+        #box89{
+            margin-top: 100px;
+            margin-bottom: 100px;
+            display: flex;
+            justify-content: space-evenly;
+            align-items: center;
+            border-radius: 10px;
+            background-color: white;
+            max-width: max-content;
+            box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+        }
+
+        #box8{
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            flex-direction : column;
+            width: 600px;
+            padding: 10px;
+        }
+        
+        
+        #box8 h1{
+            font-size: 30px;
+            margin: 5px;
+            color: black;
+            font-family: Arial Black;
+            padding: 40px;
+        }
+
+        #box9{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        #box9 img {
+            height: 350px;
+            width : 350px;
+            border-top-left-radius: 5px;
+            border-bottom-left-radius: 5px;
+        }
