@@ -117,3 +117,8 @@ WD-ProjectName
 |Beef patty (side)|Image|https://mauibusstop.com/online-order/sides/beef-patty-side/|
 |butterhead lettuce|Image|https://www.britannica.com/plant/lettuce|
 |4.5" Sesame Hamburger Bun 12 ct.|Image|https://www.alphabaking.com/51161/|
+|Case Study: Popeyes Franchise|Image|  https://www.ayrking.com/case-studies/popeyes/|
+|Popeyes Chicken Thumbnail|Logo|https://www.stickpng.com/img/icons-logos-emojis/restaurant-logos/popeyes-chicken-thumbnail|
+|Orange world map illustration on transparent background|Image|https://stock.adobe.com/ph/search?k=orange+world+map&asset_id=571174551|
+|eps10 orange vector remote work or work from home line icon isolated on white background. freelancer working at the desk outline symbol in a flat style for your website design, logo, and mobile app Pro Vector|Image|https://www.vecteezy.com/vector-art/9759602-eps10-orange-vector-remote-work-or-work-from-home-line-icon-isolated-on-white-background-freelancer-working-at-the-desk-outline-symbol-in-a-flat-style-for-your-website-design-logo-and-mobile-app|
+|Nuggets free icon|Image|https://www.flaticon.com/free-icon/nuggets_3790184?term=fried+chicken&page=1&position=21&origin=tag&related_id=3790184

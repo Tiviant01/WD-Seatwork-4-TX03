@@ -1,0 +1,161 @@
+@keyframes updown{
+
+    from{
+        transform:  translateY(0px)
+    }
+
+    to{  
+        transform:  translateY(-3px);
+    }
+}
+
+@keyframes press{
+    from{  
+        transform:  translateY(-3px);
+    }
+
+    to{
+        transform:  translateY(0px)
+    }
+}
+body{
+    background-image: url(../img/popi.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+section.home {
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+header.design1{
+    display: flex;
+    width: 80vw;
+    justify-content: space-between;
+    padding: .7rem 10vw;
+    align-items: center;
+    color: white;
+    background-image: url(../img/popi.jpg);
+    border: rgb(255, 166, 0) 5px solid;
+    position: fixed; 
+    top: 0;
+}   
+
+.box{
+    display: flex;
+    justify-content: flex-start;
+   }
+  
+#box1{
+    height : 60px;
+    padding-left: 30px ;
+    align-items: center;
+   }
+
+#box1 img{
+    width: 60px;
+    transition: .2s;
+}
+
+#box1 img:hover{
+    transform: scale(1.2);
+}
+
+#box1 img:active{
+    transform: scale(1);
+}
+
+header.design1 button{
+    margin-left: 15px;
+    background-color: rgba(0,0,0,0);
+    font-family: Arial Black;
+    color: white;
+    font-size: 20px;
+    height: 60px;
+    border : none;
+    border-bottom: 5px rgba(0,0,0,0) solid;
+    transition: .1s;
+}
+
+.design1 button:hover{
+    animation: updown .1s ;
+    animation-fill-mode: forwards;
+    background-color: #ffc400;
+    border-bottom: 5px #ff7b00 solid;
+}
+
+.design1 button:active{
+    animation: press .1s;
+    background-color: rgba(0,0,0,0);        
+    border-left: 5px rgba(0,0,0,0) solid;
+    border-right: 5px rgba(0,0,0,0) solid;
+    border-bottom: 5px rgba(0,0,0,0) solid;;
+}
+
+#nav1 {
+    padding-right: 30px;
+ }
+
+section.feature{
+    background-color: white;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    border: rgb(255, 166, 0) 5px solid;
+    padding-left: 250px;
+    padding-right: 275px;
+}
+
+#box2{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    margin-right: 50px;
+
+}
+
+#box2 h1{
+    font-family: Arial black;
+    color: #ff7b00;
+    padding: 20px;
+    font-size: 30px;
+}
+
+#box2 p{
+    font-size: 20px;
+    font-family: Arial black;
+    color: #ff7b00;
+    padding: 20px;
+}
+
+#box3{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    margin-right: 50px;
+
+}
+
+#box3 h1{
+    font-family: Arial black;
+    color: #ff7b00;
+    padding: 20px;
+    font-size: 30px;
+}
+
+#box3 p{
+    font-size: 20px;
+    font-family: Arial black;
+    color: #ff7b00;
+    padding: 20px;
+}
+
+#box3 img{
+    width: 180px;
+    filter: invert(53%) sepia(28%) saturate(3683%) hue-rotate(358deg) brightness(99%) contrast(108%);
+}
