@@ -114,5 +114,6 @@ WD-ProjectName
 |blurry background of a restaurant, great for text backgrounds, video backgrounds and illustrations|Background Image|https://ph.pinterest.com/pin/625367098301214634/|
 |Copycat McDonald's Big Mac|Image|https://ph.pinterest.com/pin/554927985353292441/|
 |#31|Box Shadow|https://getcssscan.com/css-box-shadow-examples?fbclid=IwZXh0bgNhZW0CMTEAAR3AK8uz-1Km8yyg47w-c_NN_gEQpcmrD3IGSBId-sST-8GlUoi0UZwSRx4_aem_yOsX94aOnkZAdL55eV_yfw|
-|Enjoy a new, personalized snacking experience with McDonald’s Mix & Match|Image|https://www.megabites.com.ph/enjoy-a-new-personalized-snacking-experience-with-mcdonalds-mix-match/|
-|Breakfast McDonald's Philippines |Image|https://mcdonalds.com.ph/our-food/breakfast|
+|Beef patty (side)|Image|https://mauibusstop.com/online-order/sides/beef-patty-side/|
+|butterhead lettuce|Image|https://www.britannica.com/plant/lettuce|
+|4.5" Sesame Hamburger Bun 12 ct.|Image|https://www.alphabaking.com/51161/|
