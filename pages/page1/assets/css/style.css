@@ -19,6 +19,14 @@
     }
 }
 
+body{
+    background-image: url(../img/cup.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
 section.home {
     display : flex;
     justify-content: center;
