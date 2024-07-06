@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Tiviant01/">
-  <img src="./assets/img/ian.png" width="210" height="130>
+  <img src="./assets/img/ian.png" width="210" height="130">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
    <h3 align="center">Feature Display</h3>
