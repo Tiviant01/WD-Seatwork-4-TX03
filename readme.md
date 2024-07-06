@@ -5,6 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Tiviant01/">
+  <img src="./assets/img/ian.png>
 
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
@@ -12,6 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
+This project showcases some ways to show the feature portion of a website
 </div>
 
 <br />
@@ -52,11 +54,23 @@
 ---
 
 ## Overview
-This project showcases some ways to show the feature portion of a website
+Description of the project in details.
+
+Guiding Question:
+
+- What is the project
+This project is a website showcasing features. Features are the part of the website that show the functions, and features their product or service has to offer to  their customers.
+- Whats the purpose
+This project's purpose is to practice on creating the feature part of a website.
+- What are key components
+The key component used for the project is a multipage website to showcase 2 webpages of different designs. The main webpage serving as the bridge for the 2 webpages.
+- What technology used and how it is used
+The project oonly uses HTML and CSS. HTML was used to add the parts of the webpages such as headers, footers, and for this project, the features. CSS was used to give the website its design and breath life into the project.
 
 
 ### Key Components
 - MultiPage Website
+This project comprises of a landing page and 2 webpages of different designs. These allowed for multiple designs for the website and easy navigation between the webpages.
 
 ### Technology
 
